@@ -1,3 +1,5 @@
+# Running with `httpyac send endpoints.http` outside of VSCode
+
 @baseUrl = http://localhost:6400
 
 ### Health
